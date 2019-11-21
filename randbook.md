@@ -23,7 +23,7 @@ $$
 
 ### Feature Pyramid Network：
 
-<img src="C:\Users\刘晟\Desktop\randbook\FPN.png" alt="FPN" style="zoom:80%;" />
+<img src=".\img\FPN.png" alt="FPN" style="zoom:80%;" />
 
 ### 优点：
 
