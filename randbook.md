@@ -21,7 +21,7 @@ $$
 
 ### Feature Pyramid Network：
 
-<img src="./img\FPN.png" alt="FPN" style="zoom:80%;" />
+<img src="https://github.com/Darkdawner/Randbook/blob/master/img/FPN.png" alt="FPN" style="zoom:80%;" />
 
 ### 优点：
 
