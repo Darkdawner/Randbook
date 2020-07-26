@@ -70,4 +70,4 @@ $$
 **基于对象关键点相似度（OKS）的mAP：**
 
 - 常用于COCO关键点的挑战。
-- ![img](C:\Users\刘晟\Desktop\randbook\img\OKS.png)
+- ![img](.\img\OKS.png)
