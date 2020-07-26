@@ -31,7 +31,7 @@ $$
 
 ### Introduction
 
-![residual_block](.\img\residual_block.png)
+![residual_block](https://github.com/Darkdawner/Randbook/blob/master\img\residual_block.png)
 
 We consider a building block deﬁned as: 
 $$
@@ -46,7 +46,7 @@ $$
 
 ### Example
 
-![residual_example](.\img\residual_example.png)
+![residual_example](https://github.com/Darkdawner/Randbook/blob/master\img\residual_example.png)
 
 # **Human Pose Estimation通用评估指标**
 
@@ -70,4 +70,4 @@ $$
 **基于对象关键点相似度（OKS）的mAP：**
 
 - 常用于COCO关键点的挑战。
-- ![img](.\img\OKS.png)
+- ![img](https://github.com/Darkdawner/Randbook/blob/master\img\OKS.png)
